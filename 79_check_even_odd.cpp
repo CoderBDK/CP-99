@@ -34,6 +34,6 @@ int main() {
 
     // Even -> end in 0 (LSB = 0)
     // Odd -> end in 1 (LSB = 1).
-    cout << bitset<8>(0b1011111 & 0b00000001);
+    cout << bitset<8>(0b10011111 & 0b00000001);
     return 0;
 }
