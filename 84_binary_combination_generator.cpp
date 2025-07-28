@@ -2,6 +2,7 @@
 #include <cmath>
 #include <stdexcept>
 #include <cassert>
+#include <bitset>
 
 using namespace std;
 
